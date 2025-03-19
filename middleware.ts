@@ -6,6 +6,8 @@ const protectedRoutes = [
   "/activation",
   "/users",
   "/users/new",
+  "/clients",
+  "/clients/new",
 ];
 const publicRoutes = ["/login"];
 

@@ -77,7 +77,7 @@ const data = {
         },
         {
           title: "Clients",
-          url: "#",
+          url: "/clients",
         },
         {
           title: "Fournisseurs",
@@ -100,7 +100,7 @@ const data = {
         },
         {
           title: "clients",
-          url: "#",
+          url: "/clients",
         },
         {
           title: "fournisseurs",
